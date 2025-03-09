@@ -8,3 +8,6 @@ used to wirelessly transmit encoded binary test
 it can send data, files and text 
 open source for all you tech needs out there
 feel free to contribute
+
+## installation
+'''jekd'''
