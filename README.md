@@ -1,6 +1,7 @@
 # WAC
 wac - wireless audio communication
 
+wac uses a protocol developed by our team called "Rift" – Resonance Information Frequency Transfer
 
 it is a wip for communication using sound 
 using a high frequency the human ear can't hear
