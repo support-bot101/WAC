@@ -10,4 +10,6 @@ open source for all you tech needs out there
 feel free to contribute
 
 ## installation
-'''jekd'''
+
+~~~
+git clone
