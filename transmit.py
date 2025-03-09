@@ -8,8 +8,8 @@ RATE = 44100  # Sample rate (samples per second)
 DURATION = 0.01  # Fixed duration per bit
 
 # Frequencies for binary encoding
-FREQ_1 = 17000  # Frequency for binary 1
-FREQ_0 = 20000  # Frequency for binary 0
+FREQ_1 = 17000  # Frequency for binary 1 heard as 2900-3500hz
+FREQ_0 = 20000  # Frequency for binary 0 heard as 3900-4500hz
 
 # Initialize pygame mixer
 pygame.mixer.init(frequency=RATE, size=-16, channels=1, buffer=512)
