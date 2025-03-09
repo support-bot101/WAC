@@ -20,6 +20,7 @@ cd WAC
 ~~~
 pip install -r transmit_requirements.txt && pip install -r reseive_requirements.txt
 ~~~
+### use
 ~~~
 python transmit.py
 ~~~
