@@ -18,7 +18,7 @@ git clone https://github.com/support-bot101/WAC.git
 cd WAC
 ~~~
 ~~~
-pip install -r transmit_requirements.txt && pip install -r reseive_requirements.txt
+pip install -r Transmit_requirements.txt && pip install -r Reseive_requirements.txt
 ~~~
 ### use
 ~~~
